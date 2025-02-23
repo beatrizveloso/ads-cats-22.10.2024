@@ -8,4 +8,5 @@ Este repositório contém um exercício da faculdade onde foi criada uma galeria
 ✅ Efeitos de transição e transformações para dar a sensação de polaroids  
 
 Sinta-se à vontade para explorar e modificar o código! 🐱✨
+<br>
 ![image](https://github.com/user-attachments/assets/57b1cccb-39a7-46b0-a80b-086c48c29bd9)
