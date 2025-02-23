@@ -1,6 +1,6 @@
 # 📸 Galeria de Polaroids de Gatinhos  
 
-Este repositório contém um exercício da faculdade onde foi criada uma galeria de imagens utilizando o conceito de polaroids. A galeria exibe cinco imagens de gatinhos, estilizadas com HTML e CSS para parecerem fotos em polaroid.  
+Este repositório contém um exercício da faculdade onde foi criada uma galeria de imagens utilizando o conceito de polaroids. A galeria exibe três imagens de gatinhos, estilizadas com HTML e CSS para parecerem fotos em polaroid.  
 
 💡 **Conceitos abordados:**  
 ✅ Uso de imagens e layout com HTML  
